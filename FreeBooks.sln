@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBooks", "WebBooks\WebBooks.csproj", "{3EAFACE4-D4C2-4EC5-82CC-65AE480A02A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{C5B22C82-AC74-41F5-8390-1B45228BA024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{A369603F-540C-4B24-A377-6A795AC2F2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EAFACE4-D4C2-4EC5-82CC-65AE480A02A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAFACE4-D4C2-4EC5-82CC-65AE480A02A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAFACE4-D4C2-4EC5-82CC-65AE480A02A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAFACE4-D4C2-4EC5-82CC-65AE480A02A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B22C82-AC74-41F5-8390-1B45228BA024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B22C82-AC74-41F5-8390-1B45228BA024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B22C82-AC74-41F5-8390-1B45228BA024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B22C82-AC74-41F5-8390-1B45228BA024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A369603F-540C-4B24-A377-6A795AC2F2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A369603F-540C-4B24-A377-6A795AC2F2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A369603F-540C-4B24-A377-6A795AC2F2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A369603F-540C-4B24-A377-6A795AC2F2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9F1C19-12FF-41F0-913A-9E889304EFBF}
+	EndGlobalSection
+EndGlobal
